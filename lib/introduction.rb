@@ -1,4 +1,4 @@
 #lib/introduction.RUBY_VERSION
 
-def introduction(Josh)
+def introduction(name)
 end
